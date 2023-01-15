@@ -8,7 +8,7 @@
 - I like to learn new things every day, listen to music, play video games and basketball, travel, take and edit photos and videos 🏀📟
 
 # My Website and Social Media
-## Website: http://kevinquiroz.cf
+## Website: https://kevinqzg.github.io/Portfolio/
 ## Instagram: https://www.instagram.com/kquirozg30/
 ## Linkedln: https://www.linkedin.com/in/kevinqzg/
 
