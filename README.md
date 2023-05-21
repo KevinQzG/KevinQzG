@@ -3,8 +3,8 @@
 ## Who Am I?
 - My fullname is Kevin Quiroz (KevinQzG on Internet) 👨🏼‍🚀
 - I was born in '04 and right now I'm living in Medellín, Colombia 🇨🇴
-- I'm currently a computer science student at EAFIT university in Medellín, Colombia 👨🏻‍🎓
-- I can communicate in Spanish, English and Portuguese 🇪🇸🇺🇸🇵🇹
+- I'm currently a computer science student at EAFIT University in Medellín, Colombia 👨🏻‍🎓
+- I can communicate in Spanish, English, and Portuguese 🇪🇸🇺🇸🇵🇹
 - I like to learn new things every day, listen to music, play video games and basketball, travel, take and edit photos and videos 🏀📟
 
 ## Socials 🌐
