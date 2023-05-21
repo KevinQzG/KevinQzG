@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinqzg) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kevinqzg30)
 
-# 📊 GitHub Stats:
+# GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinQzG&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinQzG&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
