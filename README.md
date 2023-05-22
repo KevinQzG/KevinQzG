@@ -3,9 +3,11 @@
 ## Who Am I?
 - My fullname is Kevin Quiroz (KevinQzG on Internet) 👨🏼‍🚀
 - I was born in '04 and right now I'm living in Medellín, Colombia 🇨🇴
+- I graduated in Graphic Design and Multimedia Integration at Pascual Bravo University in 2021 🎨
 - I'm currently a computer science student at EAFIT University in Medellín, Colombia 👨🏻‍🎓
 - I can communicate in Spanish, English, and Portuguese 🇪🇸🇺🇸🇵🇹
 - I like to learn new things every day, listen to music, play video games and basketball, travel, take and edit photos and videos 🏀📟
+- Member of the [Marketing Team](https://github.com/gruponovaeafit) at [*(NOVA EAFIT)*](https://www.instagram.com/novaeafit/) 🚀💜
 
 ## Socials 🌐
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kevinqzg.github.io/Portfolio)
@@ -23,6 +25,6 @@
 <h1 align="center">IDEs, Frameworks and Languages (some under study) 💻</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,java,cpp,html,css,js,bootstrap,django,arduino,mongodb,mysql,swift" />
+    <img src="https://skillicons.dev/icons?i=vscode,xd,pr,ps,illustrator,ae,blender,cloudflare,wordpress,github,python,java,cpp,html,css,js,bootstrap,django,arduino,mongodb,mysql,swift,md,scala,haskell" />
   </a>
 </p>
