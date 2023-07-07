@@ -5,9 +5,13 @@
 - I was born in '04 and right now I'm living in Medellín, Colombia 🇨🇴
 - I graduated in Graphic Design and Multimedia Integration at Pascual Bravo University in 2021 🎨
 - I'm currently a computer science student at EAFIT University in Medellín, Colombia 👨🏻‍🎓
-- I can communicate in Spanish, English, and Portuguese 🇪🇸🇺🇸🇵🇹
 - I like to learn new things every day, listen to music, play video games and basketball, travel, take and edit photos and videos 🏀📟
-- Member of the [Marketing Team](https://github.com/gruponovaeafit) at [*(NOVA EAFIT)*](https://www.instagram.com/novaeafit/) 🚀💜
+- Member of the [Communities Team](https://github.com/gruponovaeafit) at [*(NOVA EAFIT)*](https://www.instagram.com/novaeafit/) 🚀💜
+
+## Languages
+- Spanish, native language.
+- English, B1 level.
+- Portuguese, B1 level.
 
 ## Socials 🌐
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kevinqzg.github.io/Portfolio)
