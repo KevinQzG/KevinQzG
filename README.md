@@ -29,6 +29,6 @@
 <h1 align="center">IDEs, Frameworks and Languages (some under study) 💻</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,xd,pr,ps,illustrator,ae,blender,cloudflare,wordpress,github,python,java,cpp,cs, html,css,js,bootstrap,django,flask,figma,anaconda,atom,dotnet,arduino,mongodb,mysql,swift,md,scala,haskell" />
+    <img src="https://skillicons.dev/icons?i=vscode,xd,pr,ps,illustrator,ae,blender,cloudflare,wordpress,github,python,java,cpp,html,css,js,bootstrap,django,arduino,mongodb,mysql,swift,md,scala,haskell" />
   </a>
 </p>
