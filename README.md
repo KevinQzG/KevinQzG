@@ -1,11 +1,11 @@
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrcnQ0MGgxN240OTA1OTVycGc3dmp1Z3RlOTNzbHpkdGNjb2E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="200px" alt="Welcome Gif">
-  <h1>Welcome 😳</h1>
+  <h1 style="text-align: center;">Welcome </h1>
 </div>
 
 ![Header](/github-header-image.png)
 
-## Who Am I?
+# ⁉️ Who Am I?
 
 - My fullname is Kevin Quiroz (KevinQzG on Internet) 👨🏼‍🚀
 - I was born in '04 and right now I'm living in Medellín, Colombia 🇨🇴
@@ -14,13 +14,13 @@
 - I like to learn new things every day, listen to music, play video games and basketball, travel, take and edit photos and videos 🏀📟
 - Member of the [Communities Team](https://github.com/gruponovaeafit) at [*(NOVA EAFIT)*](https://www.instagram.com/novaeafit/) 🚀💜
 
-## Languages
+# 🌎 Languages
 
 - Spanish, native language.
 - English, B1 level.
 - Portuguese, B1 level.
 
-## Socials 🌐
+# 🌐 Socials
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kevinqzg.github.io/Portfolio)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kquirozg30)
