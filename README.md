@@ -48,4 +48,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=KevinQzG&icon=2&color=4)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/KevinQzG/KevinQzG/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/KevinQzG/KevinQzG/blob/output/github-contribution-grid-snake-dark.svg)
