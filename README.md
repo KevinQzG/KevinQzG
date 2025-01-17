@@ -47,3 +47,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=KevinQzG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=KevinQzG&icon=2&color=4)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/KevinQzG/KevinQzG/blob/output/github-contribution-grid-snake.gif)
