@@ -1,6 +1,9 @@
-<h1 align="center">Hi everyone! I'm Kevin 😳</h1>
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrcnQ0MGgxN240OTA1OTVycGc3dmp1Z3RlOTNzbHpkdGNjb2E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="200px">Welcome 😳
+
+![Header](/github-header-image.png)
 
 ## Who Am I?
+
 - My fullname is Kevin Quiroz (KevinQzG on Internet) 👨🏼‍🚀
 - I was born in '04 and right now I'm living in Medellín, Colombia 🇨🇴
 - I graduated in Graphic Design and Multimedia Integration at Pascual Bravo University in 2021 🎨
@@ -9,26 +12,34 @@
 - Member of the [Communities Team](https://github.com/gruponovaeafit) at [*(NOVA EAFIT)*](https://www.instagram.com/novaeafit/) 🚀💜
 
 ## Languages
+
 - Spanish, native language.
 - English, B1 level.
 - Portuguese, B1 level.
 
 ## Socials 🌐
+
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kevinqzg.github.io/Portfolio)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kquirozg30)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinqzg) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kevinqzg30)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kquirozg30)
+[![Linkedin: Kevin Quiroz](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/kevinqzg/)](https://www.linkedin.com/in/kevinqzg/)
 
-# GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KevinQzG&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinQzG&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=KevinQzG&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<h1 align="center">IDEs, Frameworks and Languages (some under study) 💻</h1>
+# 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,xd,pr,ps,illustrator,ae,blender,cloudflare,wordpress,github,python,java,cpp,html,css,js,bootstrap,django,arduino,mongodb,mysql,swift,md,scala,haskell" />
   </a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KevinQzG&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KevinQzG&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KevinQzG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=KevinQzG&icon=2&color=4)](https://visitcount.itsvg.in)
