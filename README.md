@@ -1,4 +1,7 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrcnQ0MGgxN240OTA1OTVycGc3dmp1Z3RlOTNzbHpkdGNjb2E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="200px">Welcome 😳
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrcnQ0MGgxN240OTA1OTVycGc3dmp1Z3RlOTNzbHpkdGNjb2E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="200px" alt="Welcome Gif">
+  <h1>Welcome 😳</h1>
+</div>
 
 ![Header](/github-header-image.png)
 
@@ -27,9 +30,10 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,xd,pr,ps,illustrator,ae,blender,cloudflare,wordpress,github,python,java,cpp,html,css,js,bootstrap,django,arduino,mongodb,mysql,swift,md,scala,haskell" />
+    <img src="https://skillicons.dev/icons?i=css,js,ts,md,latex,java,c,cs,cpp,html,r,python,aws,azure,fastapi,flask,django,wordpress,tailwind,react,mongodb,mysql,sqlite,figma,xd,illustrator,photoshop,git,github,arduino,docker,notion,unity,swift,vercel,netlify,bootstrap,flutter,matplotlib,pandas,plotly" />
   </a>
 </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
