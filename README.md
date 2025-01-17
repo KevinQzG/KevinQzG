@@ -44,7 +44,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=KevinQzG&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KevinQzG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KevinQzG&limit=5&theme=radical&hide_border&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=KevinQzG&icon=2&color=4)](https://visitcount.itsvg.in)
 
