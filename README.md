@@ -1,6 +1,6 @@
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrcnQ0MGgxN240OTA1OTVycGc3dmp1Z3RlOTNzbHpkdGNjb2E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="200px" alt="Welcome Gif">
-  <h1 style="text-align: center;">Welcome </h1>
+  <h1 style="text-align: center;">Welcome  😳 </h1>
 </div>
 
 ![Header](/github-header-image.png)
