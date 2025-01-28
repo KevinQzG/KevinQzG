@@ -22,7 +22,7 @@
 
 ## 🌐 Socials
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kevinqzg.github.io/Portfolio)
+[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kevinqzg.vercel.app/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kquirozg30)
 [![Linkedin: Kevin Quiroz](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/kevinqzg/)](https://www.linkedin.com/in/kevinqzg/)
 
