@@ -80,15 +80,16 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KevinQzG&theme=radical&hide_border=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinQzG&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KevinQzG&theme=radical&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinQzG&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinQzG&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinQzG&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KevinQzG&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KevinQzG&limit=5&theme=radical&hide_border&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=KevinQzG&icon=2&color=4)](https://visitcount.itsvg.in)
 
