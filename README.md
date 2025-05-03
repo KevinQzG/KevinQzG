@@ -85,7 +85,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinQzG&theme=radical&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinQzG&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinQzG&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinQzG&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinQzG&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
