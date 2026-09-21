@@ -10,14 +10,14 @@
 - My fullname is Kevin Quiroz (KevinQzG on Internet) :trollface:
 - I was born in '04 and right now I'm living in Medellín, Colombia 🇨🇴
 - I graduated in Graphic Design and Multimedia Integration at Pascual Bravo University in 2021 🎨
-- I'm currently a computer science student at EAFIT University in Medellín, Colombia 👨🏻‍🎓
+- I'm a systems engineer specializing in information systems, a graduate of EAFIT University. 👨🏻‍🎓
 - I like to learn new things every day, listen to music, play video games and basketball, travel, take and edit photos and videos 🏀📟
 - Member of the [Communities Team](https://github.com/gruponovaeafit) at [*(NOVA EAFIT)*](https://www.instagram.com/novaeafit/) 🚀💜
 
 ## 🌎 Languages
 
 - Spanish, native language.
-- English, B1 level.
+- English, B2 level.
 - Portuguese, B1 level.
 
 ## 🌐 Socials
